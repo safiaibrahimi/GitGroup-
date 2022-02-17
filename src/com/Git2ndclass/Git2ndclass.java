@@ -8,6 +8,7 @@ public class Git2ndclass {
 		System.out.println("The weather is sunny today");
 		System.out.println("The weather is cold today");
 		System.out.println(" Hello");
+		System.out.println(" hello world");
 	}
 
 }
